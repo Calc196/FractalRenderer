@@ -9,7 +9,7 @@
 #include "Shader.hpp"
 
 #include "Shader.hpp"
-#include "FileStream.hpp"
+#include "../FileStream.hpp"
 
 #include <GL/glew.h>
 

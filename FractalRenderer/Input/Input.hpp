@@ -9,7 +9,7 @@
 #ifndef Input_hpp
 #define Input_hpp
 
-#include "Using.hpp"
+#include "../Using.hpp"
 
 #define NUM_KEYS 323
 

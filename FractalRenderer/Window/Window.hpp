@@ -9,7 +9,7 @@
 #ifndef Window_h
 #define Window_h
 
-#include "Using.hpp"
+#include "../Using.hpp"
 
 #include <SDL2/SDL.h>
 
